@@ -1,3 +1,4 @@
 Second
 Third file changed.
 Third.
+Fourth added.
