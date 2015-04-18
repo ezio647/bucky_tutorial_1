@@ -1,1 +1,4 @@
 Third file changed.
+First I cloned the bucky repository.
+Then I cd-ed into monkey folder.
+Then I added this fourth line while I was on local machine.
